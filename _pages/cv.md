@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank" rel="noopener">Download CV as PDF</a>
+</div>
+
+
 Education
 ======
 * M.S. in United States, University of Minnesota - Twin Cities, 2024 - Present
