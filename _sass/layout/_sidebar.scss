@@ -102,6 +102,12 @@
   img {
     max-width: 175px;
     border-radius: 0; // make avatar rectangular instead of circular
+    display: block !important;
+    width: 150px !important;
+    height: auto !important;
+    background: #f6f6f6 !important; // visible fallback if image missing
+    border: 1px solid var(--global-border-color);
+    object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;
