@@ -23,7 +23,7 @@ repository               : "novia-aa/novia-aa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   name             : "Yu-Tong Chuang"
   pronouns         : "she/her"  
   bio              : "Master in Computer Science"
