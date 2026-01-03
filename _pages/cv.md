@@ -51,7 +51,3 @@ Work experience
 * Undergraduate Research Assistant, Sep 2021 - Dec 2022
   * National Central University
   * Compared Machine Learning Methods and Deep Learning Methods to find the best model and enhancing the accuracy of bacterial resistance modeling by 30%
-
-Patent
-======
-* Currently signed in to 43 different slack teams
