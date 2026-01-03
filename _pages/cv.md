@@ -21,37 +21,37 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant, Sep 2024 - Present
+  * Project: Document AI & Layout Generation
+    * Engineered a hybrid GAN and CNN pipeline for generated layout-aware document and synthetic datasets to address data scarcity
+  * Project: Urban Region Embedding for Land-Use Classification in Taiwan
+    * Developed a multi-view GNN framework and incorporated prompting feature extraction to better align embeddings with functional urban semantics, supporting heterogeneous spatio-temporal modeling research
+  * Project: Meta-Learned PINO Framework for Fast PDE Adaptation
+    * Implemented an iMAML-enhanced Physics-Informed Neural Operator enabling rapid adaptation to new PDE
+  * Project: Multi-Objective Bayesian Optimization for LLM Fine-Tuning
+    * Built a calibration-aware Bayesian optimization pipeline using Gaussian Process surrogates to jointly optimize accuracy and Expected Calibration Error over data-mixture weights
+    * Enabled discovery of training mixtures that improve reliability and trustworthiness of fine-tuned LLMs for downstream reasoning tasks
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, Oct 2021 - May 2024
+  * National Central University
+  * Built an early diabetic nephropathy prediction model powered by big data analysis for early diagnostic support
+  * Deployed Flask-based web systems with Docker containerization, ensuring portability and operational efficiency
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Intern, Jul 2022 - Dec 2022
+  * National Health Research Institutes
+  * Developed a precision health system to provide potential risk of diseases, providing individualized medical treatment suggestion
+  * Utilized R and Python for gene sequencing research, and employed advanced algorithms and big data analysis
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
+* R&D IT Intern, Oct 2022 - May 2023
+  * Qisda Corporation
+  * Developed automated PowerShell scripts to streamline device updates and deliver scheduled update notifications to users
+  * Performed unit-level checks to verify monitor functionality and ensure device performance met client requirements
+  * Used Microsoft Azure to manage, track, and monitor device status across distributed environments
+
+* Undergraduate Research Assistant, Sep 2021 - Dec 2022
+  * National Central University
+  * Compared Machine Learning Methods and Deep Learning Methods to find the best model and enhancing the accuracy of bacterial resistance modeling by 30%
+
 Patent
 ======
 * Currently signed in to 43 different slack teams
